@@ -21,6 +21,7 @@ import java.util.logging.SimpleFormatter;
 import calculadora.entities.Soma;
 import calculadora.entities.Subtrair;
 import calculadora.entities.Multiplicar;
+import calculadora.entities.Porcentagem;
 import calculadora.entities.Divisao;
 
 public class App {
@@ -79,6 +80,7 @@ public class App {
             System.out.println("2. Subtração");
             System.out.println("3. Multiplicação");
             System.out.println("4. Divisão");
+            System.out.println("5. Porcentagem");
             System.out.println("0. Sair");
             System.out.print("Escolha uma opção: ");
             
@@ -151,6 +153,19 @@ public class App {
                 
             break;
 
+            case 5:
+            logger.info("Digite dois números:");
+            double porcen = sc.nextDouble();
+            double valorTotal = sc.nextDouble();
+            sc.nextLine(); // CORREÇÃO: Consome o '\n'
+
+            Porcentagem porcentagem = new Porcentagem();
+            porcentagem.setPorcen(porcen);
+            porcentagem.setValorTotal(valorTotal);
+            
+            // Registra o resultado em nível INFO
+            logger.log(Level.INFO, "O resultado da porcentagem é: {0}", porcentagem);
+                  
             case 0: logger.info("Saindo....");
             break;
 
@@ -158,6 +173,7 @@ public class App {
             break;
             }
     } while (opcao != 0); // Continua no loop até que o usuário digite 0
+    
     sc.close();
     logger.info("Fim do programa");
 }
