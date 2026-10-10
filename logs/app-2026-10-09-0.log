@@ -1,0 +1,204 @@
+Oct 09, 2026 2:58:22 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 2:58:22 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 2:58:22 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 2:58:25 PM calculadora.App main
+INFO: O resultado da soma é: calculadora.entities.Soma@736e9adb
+Oct 09, 2026 2:58:25 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 2:58:53 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 2:58:53 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 2:58:53 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 2:58:55 PM calculadora.App main
+INFO: O resultado da soma é: Soma [somasMath()=7]
+Oct 09, 2026 2:58:55 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 2:59:15 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 2:59:16 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 2:59:16 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 2:59:22 PM calculadora.App main
+INFO: O resultado da soma é: Soma [30]
+Oct 09, 2026 2:59:22 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 3:00:03 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 3:00:03 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 3:00:03 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:00:05 PM calculadora.App main
+INFO: O resultado da soma é:  + somasMath() +
+Oct 09, 2026 3:00:05 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 3:01:46 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 3:01:46 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 3:01:46 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:01:49 PM calculadora.App main
+INFO: O resultado da soma é: 10
+Oct 09, 2026 3:01:49 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 3:09:19 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 3:09:19 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 3:09:19 PM calculadora.App main
+INFO: Primeiro somar
+Oct 09, 2026 3:09:19 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:09:21 PM calculadora.App main
+INFO: O resultado da soma é: 7
+Oct 09, 2026 3:09:21 PM calculadora.App main
+INFO: Subtração agora!
+Oct 09, 2026 3:09:21 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:09:25 PM calculadora.App main
+INFO: O resultado da soma é: 3
+Oct 09, 2026 3:09:25 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 3:21:04 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 3:21:04 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 3:21:04 PM calculadora.App main
+INFO: Primeiro somar
+Oct 09, 2026 3:21:04 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:21:07 PM calculadora.App main
+INFO: O resultado da soma é: 7
+Oct 09, 2026 3:21:07 PM calculadora.App main
+INFO: Subtração agora!
+Oct 09, 2026 3:21:07 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:21:13 PM calculadora.App main
+INFO: O resultado da subtração é: 3
+Oct 09, 2026 3:21:13 PM calculadora.App main
+INFO: Multiplicação agora!
+Oct 09, 2026 3:21:13 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:21:16 PM calculadora.App main
+INFO: O resultado da multiplicação é: 10
+Oct 09, 2026 3:21:16 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 3:25:04 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 3:25:04 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 3:25:04 PM calculadora.App main
+INFO: Primeiro somar
+Oct 09, 2026 3:25:04 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:25:07 PM calculadora.App main
+INFO: O resultado da soma é: 10
+Oct 09, 2026 3:25:07 PM calculadora.App main
+INFO: Subtração agora!
+Oct 09, 2026 3:25:07 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:25:08 PM calculadora.App main
+INFO: O resultado da subtração é: -3
+Oct 09, 2026 3:25:08 PM calculadora.App main
+INFO: Multiplicação agora!
+Oct 09, 2026 3:25:08 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:25:10 PM calculadora.App main
+INFO: O resultado da multiplicação é: 10
+Oct 09, 2026 3:25:10 PM calculadora.App main
+INFO: divisão agora!
+Oct 09, 2026 3:25:10 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:25:14 PM calculadora.App main
+INFO: O resultado da divisão é: 2
+Oct 09, 2026 3:25:14 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 3:25:40 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 3:25:40 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 3:25:40 PM calculadora.App main
+INFO: Primeiro somar
+Oct 09, 2026 3:25:40 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:25:42 PM calculadora.App main
+WARNING: Opa! Apenas números, meu amigo!
+Oct 09, 2026 3:25:42 PM calculadora.App main
+INFO: Fim do programa
+Oct 09, 2026 3:59:27 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 3:59:27 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 3:59:27 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 3:59:32 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 3:59:36 PM calculadora.App main
+INFO: O resultado da soma é: 7
+Oct 09, 2026 3:59:36 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:00:20 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 4:00:20 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 4:00:20 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:00:23 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 4:00:24 PM calculadora.App main
+INFO: O resultado da subtração é: 3
+Oct 09, 2026 4:00:24 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:03:28 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 4:03:28 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 4:03:28 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:03:29 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 4:03:31 PM calculadora.App main
+INFO: O resultado da soma é: 7
+Oct 09, 2026 4:03:31 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:06:14 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 4:06:14 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 4:06:14 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:06:16 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 4:06:17 PM calculadora.App main
+INFO: O resultado da soma é: 7
+Oct 09, 2026 4:06:17 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:06:22 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 4:06:23 PM calculadora.App main
+INFO: O resultado da multiplicação é: 15
+Oct 09, 2026 4:06:23 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:09:31 PM calculadora.App main
+INFO: Bem-Vindo
+Oct 09, 2026 4:09:31 PM calculadora.App main
+INFO: Vamos calcular!
+Oct 09, 2026 4:09:31 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:09:37 PM calculadora.App main
+INFO: Digite dois números:
+Oct 09, 2026 4:09:39 PM calculadora.App main
+INFO: O resultado da divisão é: 2
+Oct 09, 2026 4:09:39 PM calculadora.App main
+INFO: Escolha uma operação
+Oct 09, 2026 4:09:45 PM calculadora.App main
+INFO: Saindo....
+Oct 09, 2026 4:09:45 PM calculadora.App main
+INFO: Fim do programa
