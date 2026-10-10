@@ -165,7 +165,7 @@ public class App {
             
             // Registra o resultado em nível INFO
             logger.log(Level.INFO, "O resultado da porcentagem é: {0}", porcentagem);
-                  
+            break;
             case 0: logger.info("Saindo....");
             break;
 
@@ -173,7 +173,7 @@ public class App {
             break;
             }
     } while (opcao != 0); // Continua no loop até que o usuário digite 0
-    
+
     sc.close();
     logger.info("Fim do programa");
 }
